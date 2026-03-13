@@ -1,0 +1,488 @@
+cote,titre,auteur,date_publication,emprunt,date_emprunt,frais_retard,livre_perdu
+H007,A Brief History of Time: From the Big Bang to Black Holes,Stephen Hawking,1987,False,,0,False
+P014,"A Child Called ""It"": One Child's Courage to Survive",Dave Pelzer,1995,False,,0,False
+D021,A Christmas Carol,Charles Dickens,1843,False,,0,False
+R001,A Clash of Kings,George R.R. Martin,1998,False,,0,False
+T013,A Confederacy of Dunces,John Kennedy Toole,1980,True,2024-08-09,100,True
+R004,A Dance with Dragons,George R.R. Martin,2011,False,,0,False
+H003,A Discovery of Witches,Deborah Harkness,2011,False,,0,False
+H015,A Farewell to Arms,Ernest Hemingway,1929,True,2024-08-10,100,True
+R003,A Feast for Crows,George R.R. Martin,2005,False,,0,False
+R005,A Game of Thrones,George R.R. Martin,1996,True,2024-07-11,100,True
+L019,A Grief Observed,C.S. Lewis,1942,False,,0,False
+E004,A Heartbreaking Work of Staggering Genius,Dave Eggers,2000,True,2023-07-02,100,True
+S047,A Light in the Attic,Shel Silverstein,1981,False,,0,False
+F020,A Million Little Pieces,James Frey,2003,False,,0,False
+I002,A Prayer for Owen Meany,John Irving,1989,False,,0,False
+B016,A Short History of Nearly Everything,Bill Bryson,2003,True,2024-06-22,100,True
+R002,A Storm of Swords,George R.R. Martin,2000,False,,0,False
+W017,A Streetcar Named Desire,Tennessee Williams,1947,False,,0,False
+D027,A Study in Scarlet,Arthur Conan Doyle,1887,True,2024-08-01,100,True
+D022,A Tale of Two Cities,Charles Dickens,1859,True,2024-08-02,100,True
+H023,A Thousand Splendid Suns,Khaled Hosseini,2007,True,2024-08-14,100,True
+G030,A Time to Kill,John Grisham,1989,True,2024-08-17,100,True
+B017,A Walk in the Woods,Bill Bryson,1997,True,2023-12-11,100,True
+S054,A Walk to Remember,Nicholas Sparks,1999,True,2024-03-02,100,True
+C009,Alice's Adventures in Wonderland,Lewis Carroll,1865,False,,0,False
+R023,Allegiant,Veronica Roth,2013,False,,0,False
+P010,Along Came a Spider,James Patterson,1993,False,,0,False
+G003,American Gods,Neil Gaiman,2001,False,,0,False
+E005,American Psycho,Bret Easton Ellis,1991,False,,0,False
+G024,An Abundance of Katherines,John Green,2006,False,,0,False
+M010,Angela's Ashes: A Memoir,Frank McCourt,1996,False,,0,False
+B014,Angels & Demons,Dan Brown,2000,False,,0,False
+O005,Animal Farm: A Fairy Story,George Orwell,1945,False,,0,False
+P015,Anna and the French Kiss,Stephanie Perkins,2010,False,,0,False
+M031,Anne of Green Gables,L.M. Montgomery,1908,False,,0,False
+C032,Artemis Fowl,Eoin Colfer,2001,False,,0,False
+R006,Atlas Shrugged,Ayn Rand,1957,False,,0,False
+M013,Atonement,Ian McEwan,2001,False,,0,False
+D011,Bared to You,Sylvia Day,2012,False,,0,False
+G010,Beautiful Creatures,Kami Garcia,2009,True,2024-07-20,100,True
+M014,Beautiful Disaster,Jamie McGuire,2011,False,,0,False
+O003,Before I Fall,Lauren Oliver,2010,False,,0,False
+W005,Before I Go to Sleep,S.J. Watson,2011,False,,0,False
+P007,Bel Canto,Ann Patchett,2001,False,,0,False
+M038,Beloved,Toni Morrison,1987,False,,0,False
+C013,Betrayed: a House of Night Novel,P.C. Cast,2007,True,2024-09-01,100,True
+M036,Big Little Lies,Liane Moriarty,2014,False,,0,False
+S020,Black Beauty,Anna Sewell,1877,True,2024-09-09,100,True
+G017,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,False,,0,False
+M020,Blood Promise,Richelle Mead,2009,True,2024-08-25,100,True
+F001,Bossypants,Tina Fey,2011,False,,0,False
+H026,Brave New World,Aldous Huxley,1932,True,2024-09-22,100,True
+V003,Breakfast of Champions,Kurt Vonnegut Jr.,1973,False,,0,False
+M024,Breaking Dawn,Stephenie Meyer,2008,True,2024-09-09,100,True
+P008,Bridge to Terabithia,Katherine Paterson,1977,True,2024-09-09,100,True
+P004,Brisingr,Christopher Paolini,2008,False,,0,False
+K023,Can You Keep a Secret?,Sophie Kinsella,2003,True,2024-09-08,100,True
+K018,Carrie,Stephen King,1974,False,,0,False
+V004,Cat's Cradle,Kurt Vonnegut Jr.,1963,False,,0,False
+H011,Catch-22,Joseph Heller,1961,False,,0,False
+C033,Catching Fire,Suzanne Collins,2009,False,,0,False
+D002,Charlie and the Chocolate Factory,Roald Dahl,1964,False,,0,False
+W013,Charlotte's Web,E.B. White,1952,False,,0,False
+P002,Choke,Chuck Palahniuk,2001,False,,0,False
+M005,Cien anos de soledad,Gabriel Garcia Marquez,1967,False,,0,False
+M022,Cinder,Marissa Meyer,2012,False,,0,False
+C027,City of Ashes,Cassandra Clare,2008,False,,0,False
+C023,City of Bones,Cassandra Clare,2007,False,,0,False
+C029,City of Fallen Angels,Cassandra Clare,2011,False,,0,False
+C026,City of Glass,Cassandra Clare,2009,False,,0,False
+C024,City of Lost Souls,Cassandra Clare,2012,False,,0,False
+C028,Clockwork Angel,Cassandra Clare,2010,False,,0,False
+C025,Clockwork Prince,Cassandra Clare,2011,False,,0,False
+C022,Clockwork Princess,Cassandra Clare,2013,False,,0,False
+F018,Cold Mountain,Charles Frazier,1997,False,,0,False
+E006,Como agua para chocolate,Laura Esquivel,1989,False,,0,False
+R036,Complete Harry Potter Boxed Set,J.K. Rowling,1998,False,,0,False
+K022,Confessions of a Shopaholic,Sophie Kinsella,2000,False,,0,False
+G005,Coraline,Neil Gaiman,2002,False,,0,False
+F005,Crescendo,Becca Fitzpatrick,2010,False,,0,False
+V002,Cutting for Stone,Abraham Verghese,2009,False,,0,False
+W003,Dark Lover,J.R. Ward,2005,False,,0,False
+F009,Dark Places,Gillian Flynn,2009,False,,0,False
+S075,Das Parfum. Die Geschichte eines Morders,Patrick Suskind,1985,False,,0,False
+H004,Dead Until Dark,Charlaine Harris,2001,False,,0,False
+S055,Dear John,Nicholas Sparks,2006,False,,0,False
+B010,Deception Point,Dan Brown,2001,False,,0,False
+L005,Defending Jacob,William Landay,2012,False,,0,False
+O002,Delirium,Lauren Oliver,2011,False,,0,False
+K001,Die Verwandlung,Franz Kafka,1915,False,,0,False
+B012,Digital Fortress,Dan Brown,1998,False,,0,False
+R021,Divergent,Veronica Roth,2011,False,,0,False
+W010,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,1996,False,,0,False
+D019,Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,False,,0,False
+S073,Dracula,Bram Stoker,1897,False,,0,False
+G002,Dragonfly in Amber,Diana Gabaldon,1992,False,,0,False
+E002,Drawing on the Right Side of the Brain,Betty Edwards,1979,False,,0,False
+S010,Dress Your Family in Corduroy and Denim,David Sedaris,2004,False,,0,False
+H016,Dune,Frank Herbert,1965,True,2024-09-07,100,True
+S067,East of Eden,John Steinbeck,1952,False,,0,False
+G016,"Eat, pray, love: one woman's search for everything across Italy, India and Indonesia",Elizabeth Gilbert,2006,False,,0,False
+M026,Eclipse,Stephenie Meyer,2007,False,,0,False
+M006,El amor en los tiempos del colera,Gabriel Garcia Marquez,1985,False,,0,False
+P005,Eldest,Christopher Paolini,2005,True,2024-09-08,100,True
+R026,Eleanor & Park,Rainbow Rowell,2013,False,,0,False
+L012,Ella Enchanted,Gail Carson Levine,1997,False,,0,False
+D012,Elle s'appelait Sarah,Tatiana de Rosnay,2007,False,,0,False
+B001,En man som heter Ove,Fredrik Backman,2012,True,2024-09-01,100,True
+C006,Ender's Game,Orson Scott Card,1985,False,,0,False
+P006,Eragon,Christopher Paolini,2002,False,,0,False
+N004,Evermore,Alyson Noel,2009,False,,0,False
+F010,Extremely Loud and Incredibly Close,Jonathan Safran Foer,2005,False,,0,False
+F011,Fall of Giants,Ken Follett,2010,False,,0,False
+K003,Fallen,Lauren Kate,2009,True,2024-09-09,100,True
+S005,Fantastic Beasts and Where to Find Them,Newt Scamander,2001,False,,0,False
+S006,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,2001,False,,0,False
+T004,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,1971,False,,0,False
+P003,Fight Club,Chuck Palahniuk,1996,False,,0,False
+L009,Flickan som lekte med elden,Stieg Larsson,2006,False,,0,False
+K006,Flowers for Algernon,Daniel Keyes,1966,False,,0,False
+H014,For Whom the Bell Tolls,Ernest Hemingway,1940,False,,0,False
+A012,Foundation,Isaac Asimov,1951,False,,0,False
+S045,Frankenstein,Mary Wollstonecraft Shelley,1818,False,,0,False
+S002,Franny and Zooey,J.D. Salinger,1961,False,,0,False
+L013,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,2005,False,,0,False
+F006,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,1987,False,,0,False
+M017,Frostbite,Richelle Mead,2008,False,,0,False
+C018,Girl with a Pearl Earring,Tracy Chevalier,1999,False,,0,False
+S053,Go Ask Alice,Beatrice Sparks,1971,False,,0,False
+F007,Gone Girl,Gillian Flynn,2012,False,,0,False
+M030,Gone with the Wind,Margaret Mitchell,1936,True,2024-09-09,100,True
+P022,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,1990,True,2024-09-02,100,True
+C010,Graceling,Kristin Cashore,2008,True,2024-09-03,100,True
+D020,Great Expectations,Charles Dickens,1860,False,,0,False
+S019,Green Eggs and Ham,Dr. Seuss,1960,False,,0,False
+K021,Greg Heffley's Journal,Jeff Kinney,2004,True,2024-08-04,100,True
+D017,"Guns, Germs, and Steel: The Fates of Human Societies",Jared Diamond,1997,False,,0,False
+R027,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,False,,0,False
+T005,"Harry Potter and the Cursed Child, Parts One and Two",John Tiffany,2016,False,,0,False
+R031,Harry Potter and the Deathly Hallows,J.K. Rowling,2007,False,,0,False
+R029,Harry Potter and the Goblet of Fire,J.K. Rowling,2000,False,,0,False
+R035,Harry Potter and the Order of the Phoenix,J.K. Rowling,2003,False,,0,False
+R034,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,False,,0,False
+R030,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,True,2024-09-09,100,True
+P012,Hatchet,Gary Paulsen,1986,False,,0,False
+C037,Heart of Darkness,Joseph Conrad,1899,True,2024-09-08,100,True
+F016,Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944,Anne Frank,1947,False,,0,False
+S001,Holes,Louis Sachar,1998,True,2024-09-01,100,True
+F013,Hotel on the Corner of Bitter and Sweet,Jamie Ford,2009,False,,0,False
+S018,How the Grinch Stole Christmas!,Dr. Seuss,1957,False,,0,False
+C008,How to Win Friends and Influence People,Dale Carnegie,1936,True,2024-09-04,100,True
+F004,"Hush, Hush",Becca Fitzpatrick,2009,False,,0,False
+Y003,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Malala Yousafzai,2012,True,2024-09-01,100,True
+L023,I Am Number Four,Pittacus Lore,2010,False,,0,False
+L003,I Know This Much Is True,Wally Lamb,1998,True,2024-09-08,100,True
+A010,I Know Why the Caged Bird Sings,Maya Angelou,1969,False,,0,False
+A013,"I, Robot",Isaac Asimov,1950,True,2024-08-09,100,True
+F014,If I Stay,Gayle Forman,2009,True,2024-09-09,100,True
+N005,If You Give a Mouse a Cookie,Laura Joffe Numeroff,1985,False,,0,False
+E001,Il nome della rosa,Umberto Eco,1980,False,,0,False
+M002,Il Principe,Niccolo Machiavelli,1513,False,,0,False
+R009,Im Westen nichts Neues,Erich Maria Remarque,1929,False,,0,False
+C004,In Cold Blood,Truman Capote,1965,False,,0,False
+W007,In Her Shoes,Jennifer Weiner,2002,False,,0,False
+F019,In the Woods,Tana French,2007,False,,0,False
+B015,Inferno,Dan Brown,2013,False,,0,False
+R022,Insurgent,Veronica Roth,2012,False,,0,False
+R010,Interview with the Vampire,Anne Rice,1976,False,,0,False
+K028,Into the Wild,Jon Krakauer,1996,False,,0,False
+K029,Into Thin Air: A Personal Account of the Mt. Everest Disaster,Jon Krakauer,1997,False,,0,False
+K002,Is Everyone Hanging Out Without Me? (And Other Concerns),Mindy Kaling,2011,False,,0,False
+O001,Island of the Blue Dolphins,Scott O'Dell,1960,False,,0,False
+K012,It,Stephen King,1986,False,,0,False
+D004,James and the Giant Peach,Roald Dahl,1961,False,,0,False
+B007,Jane Eyre,Charlotte Bronte,1847,False,,0,False
+M011,John Adams,David McCullough,2001,False,,0,False
+C039,Jurassic Park,Michael Crichton,1990,False,,0,False
+D015,Just Listen,Sarah Dessen,2006,False,,0,False
+C019,Killing Floor,Lee Child,1997,False,,0,False
+P009,Kiss the Girls,James Patterson,1995,False,,0,False
+Z001,La sombra del viento,Carlos Ruiz Zafon,2001,False,,0,False
+D013,Le Petit Prince,Antoine de Saint-Exupery,1946,False,,0,False
+L026,Legend,Marie Lu,2011,False,,0,False
+H024,Les Miserables,Victor Hugo,1862,False,,0,False
+M007,Life of Pi,Yann Martel,2001,False,,0,False
+A008,Little Women,Louisa May Alcott,1868,False,,0,False
+N001,Lolita,Vladimir Nabokov,1955,False,,0,False
+G021,Lord of the Flies,William Golding,1954,False,,0,False
+L008,Luftslottet som sprangdes,Stieg Larsson,2007,False,,0,False
+L007,Man som hatar kvinnor,Stieg Larsson,2005,False,,0,False
+A018,Mansfield Park,Jane Austen,1814,False,,0,False
+C015,Marked,P.C. Cast,2007,False,,0,False
+G036,Marley & Me: Life and Love with the World's Worst Dog,John Grogan,2005,False,,0,False
+C036,Matched,Ally Condie,2010,False,,0,False
+D001,Matilda,Roald Dahl,1988,False,,0,False
+S060,Maus: A Survivor's Tale : My Father Bleeds History,Art Spiegelman,1985,False,,0,False
+M040,Me Before You,Jojo Moyes,2012,False,,0,False
+S008,Me Talk Pretty One Day,David Sedaris,2000,False,,0,False
+G020,Memoirs of a Geisha,Arthur Golden,1997,False,,0,False
+L016,Mere Christianity,C.S. Lewis,1952,False,,0,False
+S059,Message in a Bottle,Nicholas Sparks,1998,False,,0,False
+E007,Middlesex,Jeffrey Eugenides,2002,False,,0,False
+K011,Misery,Stephen King,1987,False,,0,False
+R011,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,2011,False,,0,False
+S004,Mistborn : The Final Empire,Brandon Sanderson,2006,False,,0,False
+M021,Moby Dick,Herman Melville,1851,False,,0,False
+C034,Mockingjay,Suzanne Collins,2010,False,,0,False
+P016,My Sister's Keeper,Jodi Picoult,2004,False,,0,False
+S009,Naked,David Sedaris,1997,False,,0,False
+I004,Never Let Me Go,Kazuo Ishiguro,2005,False,,0,False
+G008,Neverwhere,Neil Gaiman,1996,False,,0,False
+M023,"New Moon (Twilight, #2)",Stephenie Meyer,2006,False,,0,False
+O004,Nineteen Eighty-Four,George Orwell,1949,False,,0,False
+P017,Nineteen Minutes,Jodi Picoult,2007,False,,0,False
+P025,Northern Lights,Philip Pullman,1995,False,,0,False
+L025,Number the Stars,Lois Lowry,1989,False,,0,False
+C031,O Alquimista,Paulo Coelho,1988,False,,0,False
+K026,Odd Thomas,Dean Koontz,2003,False,,0,False
+S066,Of Mice and Men,John Steinbeck,1937,False,,0,False
+S015,"Oh, the Places You'll Go!",Dr. Seuss,1990,False,,0,False
+D023,Oliver Twist,Charles Dickens,1838,False,,0,False
+K004,On the Road,Jack Kerouac,1955,False,,0,False
+N002,One Day,David Nicholls,2009,False,,0,False
+E008,One for the Money,Janet Evanovich,1994,False,,0,False
+K025,Orphan Train,Christina Baker Kline,2013,False,,0,False
+G001,Outlander,Diana Gabaldon,1991,False,,0,False
+G019,Outliers: The Story of Success,Malcolm Gladwell,2008,False,,0,False
+G026,Paper Towns,John Green,2008,False,,0,False
+A019,Pride and Prejudice,Jane Austen,1813,False,,0,False
+L014,Prince Caspian: The Return to Narnia,C.S. Lewis,1951,False,,0,False
+A005,"PS, I Love You",Cecelia Ahern,2003,False,,0,False
+C002,Quiet: The Power of Introverts in a World that Can't Stop Talking,Susan Cain,2012,False,,0,False
+D028,Rebecca,Daphne du Maurier,1938,False,,0,False
+H006,Red Dragon,Thomas Harris,1981,False,,0,False
+D010,Reflected in You,Sylvia Day,2012,False,,0,False
+D025,Room,Emma Donoghue,2010,False,,0,False
+B021,Running with Scissors,Augusten Burroughs,2002,False,,0,False
+S058,Safe Haven,Nicholas Sparks,2010,False,,0,False
+K010,Salem's Lot,Stephen King,1975,False,,0,False
+A021,Sense and Sensibility,Jane Austen,1811,False,,0,False
+M018,Shadow Kiss,Richelle Mead,2008,False,,0,False
+F008,Sharp Objects,Gillian Flynn,2006,False,,0,False
+L004,She's Come Undone,Wally Lamb,1992,False,,0,False
+S071,Shiver,Maggie Stiefvater,2009,False,,0,False
+H017,Siddhartha,Hermann Hesse,1922,False,,0,False
+S068,Snow Crash,Neal Stephenson,1992,False,,0,False
+S011,Snow Flower and the Secret Fan,Lisa See,2005,False,,0,False
+G014,Something Blue,Emily Giffin,2005,False,,0,False
+G015,Something Borrowed,Emily Giffin,2004,False,,0,False
+A009,Speak,Laurie Halse Anderson,1999,False,,0,False
+C005,Speaker for the Dead,Orson Scott Card,1986,False,,0,False
+M019,Spirit Bound,Richelle Mead,2010,False,,0,False
+G004,Stardust,Neil Gaiman,1999,False,,0,False
+S062,Stargirl,Jerry Spinelli,2000,False,,0,False
+M004,Station Eleven,Emily St. John Mandel,2014,False,,0,False
+I003,Steve Jobs,Walter Isaacson,2011,False,,0,False
+G011,Still Alice,Lisa Genova,2007,False,,0,False
+B022,Storm Front,Jim Butcher,2000,False,,0,False
+Y001,The 5th Wave,Rick Yancey,2013,False,,0,False
+C038,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,False,,0,False
+T014,The Adventures of Huckleberry Finn,Mark Twain,1884,False,,0,False
+T015,The Adventures of Tom Sawyer,Mark Twain,1876,False,,0,False
+P026,The Amber Spyglass,Philip Pullman,2000,False,,0,False
+C040,The Andromeda Strain,Michael Crichton,1969,False,,0,False
+S064,The Art of Racing in the Rain,Garth Stein,2006,False,,0,False
+S061,The Bad Beginning,Lemony Snicket,1999,False,,0,False
+R020,The Battle of the Labyrinth,Rick Riordan,2008,False,,0,False
+P019,The Bell Jar,Sylvia Plath,1963,False,,0,False
+D005,The BFG,Roald Dahl,1982,False,,0,False
+Z002,The Book Thief,Markus Zusak,2005,False,,0,False
+L027,The Bourne Identity,Robert Ludlum,1980,False,,0,False
+B004,The Boy in the Striped Pyjamas,John Boyne,2006,False,,0,False
+D018,The Brief Wondrous Life of Oscar Wao,Junot Diaz,2007,False,,0,False
+L022,The Call of the Wild,Jack London,1903,False,,0,False
+R033,The Casual Vacancy,J.K. Rowling,2012,False,,0,False
+S016,The Cat in the Hat,Dr. Seuss,1957,False,,0,False
+S003,The Catcher in the Rye,J.D. Salinger,1951,False,,0,False
+L015,The Chronicles of Narnia,C.S. Lewis,1956,False,,0,False
+D031,The City of Ember,Jeanne DuPrau,2003,False,,0,False
+A015,The Clan of the Cave Bear,Jean M. Auel,1980,False,,0,False
+G032,The Client,John Grisham,1993,False,,0,False
+W001,The Color Purple,Alice Walker,1982,False,,0,False
+M028,The Crucible,Arthur Miller,1953,False,,0,False
+G009,The Cuckoo's Calling,Robert Galbraith,2013,True,2024-09-09,100,True
+H001,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2003,False,,0,False
+B011,The Da Vinci Code,Dan Brown,2003,True,2024-09-09,100,True
+D008,The Death Cure,James Dashner,2011,False,,0,False
+L006,"The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America",Erik Larson,2003,False,,0,False
+W009,The Devil Wears Prada,Lauren Weisberger,2003,False,,0,False
+C012,The Elite,Kiera Cass,2013,False,,0,False
+J002,The Eye of the World,Robert Jordan,1990,False,,0,False
+G027,The Fault in Our Stars,John Green,2012,False,,0,False
+T008,The Fellowship of the Ring,J.R.R. Tolkien,1954,False,,0,False
+G031,The Firm,John Grisham,1991,False,,0,False
+C016,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,1990,False,,0,False
+A006,The Five People You Meet in Heaven,Mitch Albom,2003,False,,0,False
+R007,The Fountainhead,Ayn Rand,1943,False,,0,False
+H008,The Girl on the Train,Paula Hawkins,2015,False,,0,False
+L024,The Giver,Lois Lowry,1993,False,,0,False
+S046,The Giving Tree,Shel Silverstein,1964,False,,0,False
+W002,The Glass Castle,Jeannette Walls,2005,False,,0,False
+R037,The God of Small Things,Arundhati Roy,1997,False,,0,False
+P027,The Godfather,Mario Puzo,1969,False,,0,False
+T003,Moby Dick2,Donna Tartt,2013,False,,0,False
+B018,The Good Earth,Pearl S. Buck,1931,False,,0,False
+S065,The Grapes of Wrath,John Steinbeck,1939,False,,0,False
+G007,The Graveyard Book,Neil Gaiman,2008,False,,0,False
+F003,The Great Gatsby,F. Scott Fitzgerald,1925,False,,0,False
+K016,The Green Mile,Stephen King,1996,False,,0,False
+S021,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,2008,False,,0,False
+A014,The Handmaid's Tale,Margaret Atwood,1985,False,,0,False
+S072,The Help,Kathryn Stockett,2009,False,,0,False
+K027,The Historian,Elizabeth Kostova,2005,False,,0,False
+A004,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,False,,0,False
+D024,The Hobbit,Chuck Dixon,1989,False,,0,False
+T006,The Hobbit or There and Back Again,J.R.R. Tolkien,1937,False,,0,False
+M025,The Host,Stephenie Meyer,2008,False,,0,False
+C035,The Hunger Games,Suzanne Collins,2008,False,,0,False
+M035,The Husband's Secret,Liane Moriarty,2013,False,,0,False
+S050,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,False,,0,False
+W015,The Importance of Being Earnest,Oscar Wilde,1895,False,,0,False
+K007,The Invention of Wings,Sue Monk Kidd,2014,False,,0,False
+T001,The Joy Luck Club,Amy Tan,1989,False,,0,False
+G035,The Kitchen House,Kathleen Grissom,2010,False,,0,False
+H021,The Kite Runner,Khaled Hosseini,2003,False,,0,False
+P013,The Last Lecture,Randy Pausch,2008,False,,0,False
+R018,The Last Olympian,Rick Riordan,2009,False,,0,False
+S056,The Last Song,Nicholas Sparks,2008,False,,0,False
+D014,"The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner",Daniel Defoe,1719,False,,0,False
+S063,The Light Between Oceans,M.L. Stedman,2012,False,,0,False
+R013,The Lightning Thief,Rick Riordan,2005,False,,0,False
+L017,"The Lion, the Witch and the Wardrobe",C.S. Lewis,1950,False,,0,False
+S017,The Lorax,Dr. Seuss,1971,False,,0,False
+T010,The Lord of the Rings,J.R.R. Tolkien,1955,False,,0,False
+R012,The Lost Hero,Rick Riordan,2010,False,,0,False
+B013,The Lost Symbol,Dan Brown,2009,False,,0,False
+S007,The Lovely Bones,Alice Sebold,2002,True,2024-09-09,100,True
+S057,The Lucky One,Nicholas Sparks,2008,False,,0,False
+L018,The magician's nephew,C.S. Lewis,1953,False,,0,False
+R014,The Mark of Athena,Rick Riordan,2012,False,,0,False
+W008,The Martian,Andy Weir,2012,False,,0,False
+D006,The Maze Runner,James Dashner,2009,True,2024-09-09,100,True
+E003,The Memory Keeper's Daughter,Kim Edwards,2005,False,,0,False
+R024,The Name of the Wind,Patrick Rothfuss,2007,False,,0,False
+L002,The Namesake,Jhumpa Lahiri,2003,True,2024-09-09,100,True
+M016,The Nanny Diaries,Emma McLaughlin,2002,False,,0,False
+M034,The Night Circus,Erin Morgenstern,2011,False,,0,False
+H002,The Nightingale,Kristin Hannah,2015,False,,0,False
+S052,The Notebook,Nicholas Sparks,1996,True,2024-09-09,100,True
+G006,The Ocean at the End of the Lane,Neil Gaiman,2013,False,,0,False
+H013,The Old Man and the Sea,Ernest Hemingway,1952,False,,0,False
+G029,The Other Boleyn Girl,Philippa Gregory,2001,False,,0,False
+C030,The Other Hand,Chris Cleave,2008,False,,0,False
+H019,The Outsiders,S.E. Hinton,1967,False,,0,False
+P018,The Pact,Jodi Picoult,1998,False,,0,False
+M015,The Paris Wife,Paula McLain,2011,False,,0,False
+G033,The Pelican Brief,John Grisham,1992,False,,0,False
+C017,The Perks of Being a Wallflower,Stephen Chbosky,1999,False,,0,False
+W016,The Picture of Dorian Gray,Oscar Wilde,1891,False,,0,False
+F012,The Pillars of the Earth,Ken Follett,1989,False,,0,False
+K020,The Poisonwood Bible,Barbara Kingsolver,1998,False,,0,False
+G022,The Princess Bride,William Goldman,1973,False,,0,False
+C001,The Princess Diaries,Meg Cabot,2000,False,,0,False
+G012,The Prophet,Kahlil Gibran,1923,False,,0,False
+W004,The Purpose Driven Life: What on Earth am I Here For?,Rick Warren,2002,False,,0,False
+R015,The Red Pyramid,Rick Riordan,2010,False,,0,False
+D016,The Red Tent,Anita Diamant,1997,False,,0,False
+T009,The Return of the King,J.R.R. Tolkien,1955,False,,0,False
+S049,The Rosie Project,Graeme Simsion,2013,False,,0,False
+G034,The Runaway Jury,John Grisham,1996,False,,0,False
+H009,The Scarlet Letter,Nathaniel Hawthorne,1850,False,,0,False
+D007,The Scorch Trials,James Dashner,2010,False,,0,False
+B023,The Secret,Rhonda Byrne,2006,False,,0,False
+B020,The Secret Garden,Frances Hodgson Burnett,1911,False,,0,False
+T002,The Secret History,Donna Tartt,1992,False,,0,False
+K008,The Secret Life of Bees,Sue Monk Kidd,2001,False,,0,False
+C011,The Selection,Kiera Cass,2012,False,,0,False
+Y002,The Shack: Where Tragedy Confronts Eternity,William Paul Young,2007,False,,0,False
+K013,The Shining,Stephen King,1977,False,,0,False
+H005,The Silence of the Lambs,Thomas Harris,1988,False,,0,False
+B006,The Sisterhood of the Traveling Pants,Ann Brashares,2001,False,,0,False
+R016,The Son of Neptune,Rick Riordan,2011,False,,0,False
+K017,The Stand,Stephen King,1978,False,,0,False
+S070,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,False,,0,False
+P024,The Subtle Knife,Philip Pullman,1997,False,,0,False
+H012,The Sun Also Rises,Ernest Hemingway,1926,False,,0,False
+R028,The Tales of Beedle the Bard,J.K. Rowling,2007,False,,0,False
+P020,The Tell-Tale Heart,Edgar Allan Poe,1843,False,,0,False
+S014,The Thirteenth Tale,Diane Setterfield,2006,False,,0,False
+M012,The Thorn Birds,Colleen McCullough,1977,False,,0,False
+W011,The Time Machine,H.G. Wells,1895,True,2024-09-09,100,True
+N003,The Time Traveler's Wife,Audrey Niffenegger,2003,False,,0,False
+G018,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,True,2024-09-03,100,True
+R017,The Titan's Curse,Rick Riordan,2007,False,,0,False
+T007,The Two Towers,J.R.R. Tolkien,1954,True,2024-09-08,100,True
+A002,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story,Douglas Adams,1996,False,,0,False
+K024,The Undomestic Goddess,Sophie Kinsella,2005,False,,0,False
+C007,The Very Hungry Caterpillar,Eric Carle,1969,True,2024-09-08,100,True
+L020,The Voyage of the Dawn Treader,C.S. Lewis,1951,True,2024-09-08,100,True
+B002,The Wonderful Wizard of Oz,L. Frank Baum,1900,False,,0,False
+I001,The World According to Garp,John Irving,1978,True,2024-09-03,100,True
+H025,Their Eyes Were Watching God,Zora Neale Hurston,1937,False,,0,False
+A001,Things Fall Apart,Chinua Achebe,1958,True,2024-09-07,100,True
+A011,Thirteen Reasons Why,Jay Asher,2007,False,,0,False
+M039,Three Cups of Tea,Greg Mortenson,2006,False,,0,False
+M001,Throne of Glass,Sarah J. Maas,2012,False,,0,False
+F021,Tintenherz,Cornelia Funke,2003,False,,0,False
+L010,To Kill a Mockingbird,Harper Lee,1960,False,,0,False
+S069,Treasure Island,Robert Louis Stevenson,1882,False,,0,False
+A007,Tuesdays with Morrie,Mitch Albom,1997,False,,0,False
+M027,Twilight,Stephenie Meyer,2005,False,,0,False
+W012,Uglies,Scott Westerfeld,2005,False,,0,False
+W014,Un di Velt Hot Geshvign,Elie Wiesel,1958,False,,0,False
+H018,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,2010,False,,0,False
+K019,Under the Dome,Stephen King,2009,False,,0,False
+M008,Under the Tuscan Sun,Frances Mayes,1996,False,,0,False
+C014,Untamed: A House of Night Novel,P.C. Cast,2008,False,,0,False
+M033,V for Vendetta,Alan Moore,1990,False,,0,False
+M032,Watchmen,Alan Moore,1987,False,,0,False
+G037,Water for Elephants,Sara Gruen,2006,False,,0,False
+A003,Watership Down,Richard Adams,1972,False,,0,False
+B003,Ways of Seeing,John Berger,1972,False,,0,False
+L021,We Were Liars,E. Lockhart,2014,True,2024-09-07,100,True
+M037,What Alice Forgot,Liane Moriarty,2009,False,,0,False
+L011,Where the Heart Is,Billie Letts,1995,False,,0,False
+S048,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,Shel Silverstein,1974,True,2024-09-03,100,True
+S013,Where the Wild Things Are,Maurice Sendak,1963,False,,0,False
+S012,"Where'd You Go, Bernadette",Maria Semple,2012,False,,0,False
+F002,White Oleander,Janet Fitch,1999,False,,0,False
+J001,Who Moved My Cheese?,Spencer Johnson,1998,False,,0,False
+M003,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1995,False,,0,False
+S074,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,2012,False,,0,False
+G028,"Will Grayson, Will Grayson",John Green,2010,False,,0,False
+M029,Winnie-the-Pooh,A.A. Milne,1926,False,,0,False
+G023,Wizard's First Rule,Terry Goodkind,1994,False,,0,False
+P001,Wonder,R.J. Palacio,2012,False,,0,False
+B009,World War Z: An Oral History of the Zombie War,Max Brooks,2006,False,,0,False
+B008,Wuthering Heights,Emily Bronte,1847,True,2024-09-08,100,True
+P021,Yes Please,Amy Poehler,2014,True,2024-09-07,100,True
+cote_rangement,titre,auteur,date_publication,False,,0,False
+A017,Emma,Jane Austen,1815,False,,0,False
+A016,Northanger Abbey,Jane Austen,1817,False,,0,False
+A020,Persuasion,Jane Austen,1817,False,,0,False
+H010,Stranger in a Strange Land,Robert A. Heinlein,1961,False,,0,False
+R008,Where the Red Fern Grows,Wilson Rawls,1961,False,,0,False
+B019,A Clockwork Orange,Anthony Burgess,1962,False,,0,False
+L001,A Wrinkle in Time,Madeleine L'Engle,1962,False,,0,False
+K005,One Flew Over the Cuckoo's Nest,Ken Kesey,1962,False,,0,False
+K009,The Gunslinger,Stephen King,1982,False,,0,False
+K015,Pet Sematary,Stephen King,1983,False,,0,False
+P023,The Colour of Magic,Terry Pratchett,1983,False,,0,False
+D003,The Witches,Roald Dahl,1983,False,,0,False
+C021,The Hunt for Red October,Tom Clancy,1984,False,,0,False
+R032,Harry Potter and the Half-Blood Prince,J.K. Rowling,2005,False,,0,False
+G025,Looking for Alaska,John Green,2005,False,,0,False
+R025,The Wise Man's Fear,Patrick Rothfuss,2011,False,,0,False
+F015,Where She Went,Gayle Forman,2011,False,,0,False
+H022,And The Mountains Echoed,Khaled Hosseini,2012,False,,0,False
+D009,The God Delusion,Richard Dawkins,2006,False,,0,False
+M009,The Road,Cormac McCarthy,2006,False,,0,False
+R019,The Sea of Monsters,Rick Riordan,2006,False,,0,False
+B005,Fahrenheit 451,Ray Bradbury,1953,True,2024-09-06,100,True
+D029,Le Comte de Monte-Cristo,Alexandre Dumas,1844,False,,0,False
+D030,Les Trois Mousquetaires,Alexandre Dumas,1844,False,,0,False
+WS033,A Midsummer Night's Dream,William Shakespeare,1595,False,,0,False
+WS040,An Excellent conceited Tragedie of Romeo and Juliet,William Shakespeare,1595,False,,0,False
+WS028,As You Like It,William Shakespeare,1599,False,,0,False
+WS044,"Four Great Tragedies: Hamlet, Othello, King Lear, Macbeth (Signet Classics)",William Shakespeare,1982,False,,0,False
+WS032,Measure for Measure,William Shakespeare,1603,False,,0,False
+WS034,Much Ado About Nothing,William Shakespeare,1598,False,,0,False
+WS038,Sonnets,William Shakespeare,1592,False,,0,False
+WS029,The Complete Works,William Shakespeare,1623,False,,0,False
+WS031,The Cronicle History of Henry the fift,William Shakespeare,1599,False,,0,False
+WS036,The History of Henry the Fourth,William Shakespeare,1597,False,,0,False
+WS041,The Merchant of Venice,William Shakespeare,1596,False,,0,False
+WS025,The Taming of the Shrew,William Shakespeare,1593,False,,0,False
+WS026,The Tempest,William Shakespeare,1623,False,,0,False
+WS035,The Tragedie of Antony and Cleopatra,William Shakespeare,1606,False,,0,False
+WS024,The Tragedie of King Lear,William Shakespeare,1603,False,,0,False
+WS043,The tragedie of King Richard the second,William Shakespeare,1595,False,,0,False
+WS042,The Tragedy of Julius Caesar,William Shakespeare,1599,False,,0,False
+WS037,The Tragedy of King Richard the Third,William Shakespeare,1591,False,,0,False
+WS022,The Tragedy of Macbeth,William Shakespeare,1606,False,,0,False
+WS023,"The Tragedy of Othello, The Moor of Venice",William Shakespeare,1603,False,,0,False
+WS039,"The Tragicall Historie of Hamlet, Prince of Denmark",William Shakespeare,1600,False,,0,False
+WS030,The Winter's Tale,William Shakespeare,1600,False,,0,False
+WS027,"Twelfth Night; or, What You Will",William Shakespeare,1601,False,,0,False
