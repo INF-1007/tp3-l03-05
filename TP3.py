@@ -72,6 +72,7 @@ Cette partie doit être faite dans une fonction qui s'appelle "ajouter_nouvelle_
 def ajouter_nouvelle_collection(bibliotheque, fichier_csv):
     with open (fichier_csv,'r') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter = ',')
+        next(csv_reader)
         
         for ligne in csv_reader:
             cote = ligne[3]
@@ -80,14 +81,14 @@ def ajouter_nouvelle_collection(bibliotheque, fichier_csv):
             date_publication = ligne[2]
 
             if cote in bibliotheque:
-                print(f"Le livre '{titre}' existe déjà dans la bibliothèque. Cote : {cote}")
+                print(f"Le livre {cote} ---- {titre} par {auteur} ---- est déjà présent dans la bibliothèque")
             else:
                 bibliotheque[cote] = {
                     'titre': titre,
                     'auteur': auteur,
                     'date_publication': date_publication
                 }
-                print(f"Le livre '{titre}' a été ajouté à la bibliothèque. Cote : {cote}")
+                print(f"Le livre {cote} ---- {titre} par {auteur} ---- a été ajouté avec succès")
         
         return bibliotheque
 
@@ -154,8 +155,9 @@ def ajouter_emprunts(bibliotheque, fichier_csv):
             if cote in bibliotheque:
                 bibliotheque[cote]['emprunt'] = True
                 bibliotheque[cote]['date_emprunt'] = date_emprunt
+        return bibliotheque
+                
 
-        
 
 
 
@@ -192,7 +194,6 @@ def calculer_retards(bibliotheque):
     
     for cote in list(bibliotheque.keys()):
         if bibliotheque[cote].get('emprunt') == True and bibliotheque[cote].get('date_emprunt'):
-           
             date_emprunt = datetime.strptime(bibliotheque[cote]['date_emprunt'], '%Y-%m-%d')
             
             jours_ecoules = (maintenant - date_emprunt).days
